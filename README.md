@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 [![cdoern's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdoern)](https://github.com/anuraghazra/github-readme-stats)
 
-[![cdoern's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cdoern&exclude_repo=takecareofourplants)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![cdoern's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cdoern)](https://github.com/anuraghazra/github-readme-stats)
